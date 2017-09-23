@@ -1,6 +1,6 @@
 # coding: utf-8
 """
-Script aucomplete.
+Script autocomplete.
 Need external library 'datrie'.
 """
 
